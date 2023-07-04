@@ -14,3 +14,5 @@ tags
 .lein-failures
 .nrepl-port
 .cpcache/
+/.clj-kondo/
+/.lsp/
